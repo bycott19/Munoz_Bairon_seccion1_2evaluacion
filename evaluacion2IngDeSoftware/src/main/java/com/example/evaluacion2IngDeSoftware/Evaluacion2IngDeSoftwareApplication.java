@@ -8,7 +8,6 @@ public class Evaluacion2IngDeSoftwareApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Evaluacion2IngDeSoftwareApplication.class, args);
-        //Prueba commit
 	}
 
 }
